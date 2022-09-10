@@ -2,7 +2,6 @@
 #include <stdio.h>
 #include <time.h>
 
-
 /**
  * main - Print the last digit of random generated number and
  *	checks if greater than 5 or less than 6 and not 0
@@ -18,7 +17,7 @@ int main(void)
 
 	if  ((n % 10) > 5)
 	{
-		printf("Last digit of %d is %d and is greater than 5\n",n ,n % 10);
+		printf("Last digit of %d is %d and is greater than 5\n",n, n % 10);
 
 	}
 	else if ((n % 10) < 6 && (n % 10) != 0)
