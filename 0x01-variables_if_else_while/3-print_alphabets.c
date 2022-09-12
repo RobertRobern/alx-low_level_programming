@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Print lowercase alphabet and then uppercase
+ * main - Print lowercase and uppercase
  * 		alphabet in ascending order
  *
  * Return: 0 if success
@@ -13,7 +13,7 @@ int main(void)
 	for (letter = 'a'; letter <= 'z'; letter++)
 		putchar(letter);
 
-	for (letter = 'Z'; letter >= 'A'; letter--)
+	for (letter = 'A'; letter <= 'Z'; letter++)
 		putchar(letter);
 	putchar('\n');
 
