@@ -2,6 +2,7 @@
 
 /**
  * main - Print all possible combinations of single-digit numbers
+ * 	separateed with comma
  *
  * Return: 0 if success
  */
