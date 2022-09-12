@@ -2,7 +2,7 @@
 
 /**
  * main - Print lowercase and uppercase
- * 		alphabet in ascending order
+ * 	alphabet in ascending order
  *
  * Return: 0 if success
  */
