@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Print lowercase and uppercase
- * 	alphabet in ascending order
+ * main - Print lowercase and uppercase alphabet in ascending order
  *
  * Return: 0 if success
  */
