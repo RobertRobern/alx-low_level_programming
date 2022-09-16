@@ -1,9 +1,4 @@
-/*
- * File: 2-mul.c
- * Auth: Brennan D Baraban
- */
-
-#include "holberton.h"
+#include "main.h"
 
 /**
  * mul - Multiples two integers.
